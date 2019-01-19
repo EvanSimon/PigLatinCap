@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\PigLatinCap\PigLatinCap\bin\Debug\PigLatinCap.exe.config
+C:\Users\Evans\source\repos\PigLatinCap\PigLatinCap\bin\Debug\PigLatinCap.exe
+C:\Users\Evans\source\repos\PigLatinCap\PigLatinCap\bin\Debug\PigLatinCap.pdb
+C:\Users\Evans\source\repos\PigLatinCap\PigLatinCap\obj\Debug\PigLatinCap.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\PigLatinCap\PigLatinCap\obj\Debug\PigLatinCap.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\PigLatinCap\PigLatinCap\obj\Debug\PigLatinCap.exe
+C:\Users\Evans\source\repos\PigLatinCap\PigLatinCap\obj\Debug\PigLatinCap.pdb
